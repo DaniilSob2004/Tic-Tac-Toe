@@ -1,1 +1,5 @@
-# Tic-Tac-Toe
+![image1](https://github.com/DaniilSob2004/Tic-Tac-Toe/assets/106149184/c2024614-eece-405e-9a99-8189048ecfda)
+![image2](https://github.com/DaniilSob2004/Tic-Tac-Toe/assets/106149184/25c51a71-4675-422a-b19e-1bbe4e0d31c5)
+![image3](https://github.com/DaniilSob2004/Tic-Tac-Toe/assets/106149184/bbfb8824-ba0a-4e72-84eb-33e63bc98974)
+![image4](https://github.com/DaniilSob2004/Tic-Tac-Toe/assets/106149184/11258fb1-666a-4abc-bbb6-8078d0a4ae81)
+![image5](https://github.com/DaniilSob2004/Tic-Tac-Toe/assets/106149184/65cd6b93-9426-490c-b7a9-d6bf0d0737e2)
